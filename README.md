@@ -13,6 +13,6 @@ Ahoy, Subramanian, the Python Ninja! 🐍 Welcome to your fortress of Pythonic w
         src="https://github-readme-stats.vercel.app/api?username=subramanian-e&rank_icon=github&theme=dracula&count_private=true&include_all_commits=true"
     />
     <img align='left'
-        width="40%"
+        width="44%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=subramanian-e&theme=bear"
     />
