@@ -10,7 +10,7 @@ Ahoy, Subramanian, the Python Ninja! 🐍 Welcome to your fortress of Pythonic w
 <br>
     <img align='right'
         width="50%"
-        src="https://github-readme-stats.vercel.app/api?username=subramanian-e&rank_icon=github&theme=dracula&count_private=true&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=subramanian-e&count_private=true&rank_icon=github&theme=dracula"
     />
     <img align='left'
         width="44%"
