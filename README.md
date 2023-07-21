@@ -18,6 +18,6 @@ each line of code, you weave a tapestry of functionality, craftsmanship, and eff
         src="https://github-readme-stats.vercel.app/api?username=subramanian-e&count_private=true&rank_icon=github&theme=dracula&show_icons=true&hide=issues"
     />
     <img align='left'
-        width="44%"
+        width="40%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=subramanian-e&theme=bear"
     />
